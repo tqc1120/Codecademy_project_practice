@@ -14,7 +14,7 @@ const emojiSelects = {
 };
 
 const activeMachineImage = {
-  expressions: 'https://content.codecademy.com/courses/learn-express-routes/machine-active.svg',
+  expressions: 'https://content.codecademy.com/courses/learn-express-routes/server-machine-active.svg',
   animals: 'https://content.codecademy.com/courses/learn-express-routes/server-machine-animals.svg'
 };
 

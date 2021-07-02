@@ -2,7 +2,6 @@
 const cubeSize = 38;
 let board;
 let score = 0;
-
 class GameScene extends Phaser.Scene {
   constructor() {
     super({ key: 'GameScene' });
